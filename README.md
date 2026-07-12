@@ -1,21 +1,61 @@
 # 🔥 Project Fawkes
-## An iMac Reborn
 
+> **An iMac Reborn**
+>
 > Restore. Learn. Build. Share.
 
-## Mission
+---
 
-Project Fawkes is the restoration of a 2008 Apple iMac into a modern Linux engineering workstation. The project focuses on extending the life of capable hardware while developing Linux, networking, automation, and documentation skills.
+## Vision
 
-## Objectives
+Project Fawkes is a long-term engineering project focused on restoring legacy hardware while building practical Linux, networking, automation, and documentation skills.
 
-- Restore legacy hardware
-- Install Linux Mint
-- Build an MSP engineering workstation
-- Create a searchable engineering knowledge base
-- Document every lesson learned
-- Publish the journey
+Rather than simply installing Linux, Project Fawkes follows a complete engineering lifecycle:
 
-## Current Status
+- Assess
+- Plan
+- Build
+- Validate
+- Document
+- Improve
+- Share
 
-Milestone 1 - The Spark
+---
+
+## Current Phase
+
+### Phase 0 – The Apprentice
+
+Hardware:
+
+Dell OptiPlex 7050
+
+Purpose:
+
+Develop a standardized Linux engineering workstation.
+
+---
+
+## Future Phases
+
+Phase 1 – The Phoenix
+
+Restore a 2008 Apple iMac.
+
+Phase 2 – Phoenix Library
+
+Build a searchable engineering knowledge base.
+
+Phase 3 – Portfolio
+
+Publish the engineering journey.
+
+---
+
+## Guiding Principles
+
+- Understand before modifying.
+- Measure before optimizing.
+- Preserve knowledge.
+- Document decisions.
+- Automate repetitive work.
