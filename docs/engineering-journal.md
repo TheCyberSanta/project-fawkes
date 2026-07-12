@@ -41,6 +41,35 @@ Complete baseline assessment.
 - Selected Linux Mint Xfce.
 - Project officially named Project Fawkes.
 
+- ## 2026-07-12
+
+### Sprint
+
+Phase 0 – The Apprentice
+
+### Completed
+
+- Assessed Dell OptiPlex 7050
+- Validated UEFI
+- Validated Secure Boot
+- Verified hardware compatibility
+- Created Linux Mint installation media
+- Booted Linux Mint Live USB
+- Identified storage devices
+- Selected SSD as deployment target
+- Selected hostname:
+    fawkes-lab
+
+### Lessons Learned
+
+The Linux installer correctly identified both storage devices.
+
+Manual partitioning provides much greater understanding of Linux storage architecture than automatic installation.
+
+### Next
+
+Complete Linux installation.
+
 ### Next
 
 Prepare for disassembly.
