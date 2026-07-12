@@ -95,3 +95,10 @@ Project Fawkes will be considered successful when:
 # Long-Term Vision
 
 Project Fawkes becomes the first volume of a personal engineering portfolio that demonstrates practical skills through real-world projects rather than certifications alone.
+---
+
+## Revision History
+
+| Version | Date | Author | Notes |
+|---------|------|--------|-------|
+| 1.0 | 2026-07-12 | Fred Beebe | Initial project charter |
