@@ -2,8 +2,6 @@
 
 ## 2026-07-12
 
-## 2026-07-12
-
 ### Objective
 Complete baseline assessment.
 
